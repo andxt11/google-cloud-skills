@@ -33,7 +33,7 @@ Below is a collection of screenshots that reflect my practical experience across
 
 ## 🧠 Purpose of This Repo
 
-- To serve as a **learning log** and **visual portfolio** of my cloud journey
+- To serve as a **learning log** and **visual portfolio** of my cloud journey and showcasing learning growth.
 - To **track my progress** toward Google Cloud certification
 - To showcase my practical skills to potential employers and collaborators
 
